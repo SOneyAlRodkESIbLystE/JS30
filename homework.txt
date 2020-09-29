@@ -1,0 +1,2 @@
+This homework will be creating a simple website that detects the key
+pressed and displays it. This is to recap on Lesson 1 in JS30.
